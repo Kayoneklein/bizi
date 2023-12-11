@@ -1,0 +1,25 @@
+import 'package:bizi/constants/b_colors.dart';
+import 'package:bizi/constants/b_images.dart';
+import 'package:bizi/constants/route_names.dart';
+import 'package:bizi/constants/text_localizations.dart';
+import 'package:bizi/redux/actions/global_app_properties_actions.dart';
+import 'package:bizi/redux/states/app_state.dart';
+import 'package:bizi/views/models/overlay_model.dart';
+import 'package:bizi/views/widgets/bizi_app_wrapper.dart';
+import 'package:bizi/views/widgets/button.dart';
+import 'package:bizi/views/widgets/custom_text.dart';
+import 'package:bizi/views/widgets/language_select.dart';
+import 'package:bizi/views/widgets/space.dart';
+import 'package:carousel_slider/carousel_slider.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_redux/flutter_redux.dart';
+import 'package:redux/redux.dart';
+
+part './screens/onboard_screen.dart';
+part './screens/onboarding_carousel_screen.dart';
+part './widgets/bottom_action_buttons.dart';
+part './widgets/carousel_slider_component.dart';
+part './models/onboarding_carousel_model.dart';
+part './data/carousel_data.dart';
+part './controllers/onboarding_controller.dart';
+part 'models/onboading_view_model.dart';

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "968846913936",
+    "project_id": "bizi-dev",
+    "storage_bucket": "bizi-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968846913936:android:f481ee09d3f27fdaad0315",
+        "android_client_info": {
+          "package_name": "com.bizi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968846913936-umfebfssp8pe5a7hgh63otr9pomlurut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bizi.app",
+            "certificate_hash": "bb7adecb430e69b4280be660008c604388991086"
+          }
+        },
+        {
+          "client_id": "968846913936-nl4a744v168ehoga5he0pkoidqlulvk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQXV-1UyvHrvduHa-rOKY7VZim5Ub8AxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968846913936-nl4a744v168ehoga5he0pkoidqlulvk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
